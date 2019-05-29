@@ -1,0 +1,19 @@
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: grey;
+  font-size: 24px;
+  list-style-type: none;
+}
+
+.column {
+  width: 40%;
+  float: left;
+  padding: 10px;
+}
+
+img {
+  float: left;
+  width: 75%;
+  padding: 10px;
+}
