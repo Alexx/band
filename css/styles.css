@@ -1,9 +1,11 @@
 .sidebar {
-  width: 30%;
+  width: 7%;
   float: left;
-  background-color: grey;
+  background-color: lightgrey;
   font-size: 24px;
   list-style-type: none;
+  padding: 4px;
+  border: 2px dashed #ff00ff;
 }
 
 .column {
@@ -16,4 +18,18 @@ img {
   float: left;
   width: 75%;
   padding: 10px;
+}
+
+.this {
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+.go-this-way {
+  float: right;
+  width: 92%;
 }
